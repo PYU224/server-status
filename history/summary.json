@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/misskey.nukumori-sky.net.ico",
     "slug": "ぬくもりすきー",
     "status": "down",
-    "uptime": "0.77%",
-    "uptimeDay": "0.77%",
-    "uptimeWeek": "0.77%",
-    "uptimeMonth": "0.77%",
-    "uptimeYear": "0.77%",
-    "time": 26,
-    "timeDay": 26,
-    "timeWeek": 26,
-    "timeMonth": 26,
-    "timeYear": 26,
+    "uptime": "0.59%",
+    "uptimeDay": "0.59%",
+    "uptimeWeek": "0.59%",
+    "uptimeMonth": "0.59%",
+    "uptimeYear": "0.59%",
+    "time": 28,
+    "timeDay": 28,
+    "timeWeek": 28,
+    "timeMonth": 28,
+    "timeYear": 28,
     "dailyMinutesDown": {
-      "2026-07-01": 25
+      "2026-07-01": 33
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/33-4.me.ico",
     "slug": "33-4-blog-and-services",
     "status": "down",
-    "uptime": "0.81%",
-    "uptimeDay": "0.81%",
-    "uptimeWeek": "0.81%",
-    "uptimeMonth": "0.81%",
-    "uptimeYear": "0.81%",
-    "time": 30,
-    "timeDay": 30,
-    "timeWeek": 30,
-    "timeMonth": 30,
-    "timeYear": 30,
+    "uptime": "0.61%",
+    "uptimeDay": "0.61%",
+    "uptimeWeek": "0.61%",
+    "uptimeMonth": "0.61%",
+    "uptimeYear": "0.61%",
+    "time": 31,
+    "timeDay": 31,
+    "timeWeek": 31,
+    "timeMonth": 31,
+    "timeYear": 31,
     "dailyMinutesDown": {
-      "2026-07-01": 25
+      "2026-07-01": 33
     }
   },
   {
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 589,
-    "timeDay": 589,
-    "timeWeek": 589,
-    "timeMonth": 589,
-    "timeYear": 589,
+    "time": 533,
+    "timeDay": 533,
+    "timeWeek": 533,
+    "timeMonth": 533,
+    "timeYear": 533,
     "dailyMinutesDown": {}
   },
   {
@@ -63,18 +63,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/chat.810video.com.ico",
     "slug": "810-chat",
     "status": "down",
-    "uptime": "0.85%",
-    "uptimeDay": "0.85%",
-    "uptimeWeek": "0.85%",
-    "uptimeMonth": "0.85%",
-    "uptimeYear": "0.85%",
+    "uptime": "0.64%",
+    "uptimeDay": "0.64%",
+    "uptimeWeek": "0.64%",
+    "uptimeMonth": "0.64%",
+    "uptimeYear": "0.64%",
     "time": 35,
     "timeDay": 35,
     "timeWeek": 35,
     "timeMonth": 35,
     "timeYear": 35,
     "dailyMinutesDown": {
-      "2026-07-01": 25
+      "2026-07-01": 33
     }
   }
 ]
