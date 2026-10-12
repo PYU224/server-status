@@ -4,19 +4,20 @@
     "url": "https://misskey.nukumori-sky.net",
     "icon": "https://icons.duckduckgo.com/ip3/misskey.nukumori-sky.net.ico",
     "slug": "ぬくもりすきー",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.76%",
-    "time": 551,
-    "timeDay": 626,
-    "timeWeek": 564,
-    "timeMonth": 587,
-    "timeYear": 551,
+    "time": 548,
+    "timeDay": 442,
+    "timeWeek": 525,
+    "timeMonth": 576,
+    "timeYear": 548,
     "dailyMinutesDown": {
-      "2026-07-01": 363
+      "2026-07-01": 363,
+      "2026-10-12": 1
     }
   },
   {
@@ -24,19 +25,20 @@
     "url": "https://33-4.me",
     "icon": "https://icons.duckduckgo.com/ip3/33-4.me.ico",
     "slug": "33-4-blog-and-services",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.76%",
-    "time": 617,
-    "timeDay": 792,
-    "timeWeek": 640,
-    "timeMonth": 673,
-    "timeYear": 617,
+    "time": 613,
+    "timeDay": 476,
+    "timeWeek": 580,
+    "timeMonth": 656,
+    "timeYear": 613,
     "dailyMinutesDown": {
-      "2026-07-01": 362
+      "2026-07-01": 362,
+      "2026-10-12": 0
     }
   },
   {
@@ -62,22 +64,23 @@
     "url": "https://chat.810video.com",
     "icon": "https://icons.duckduckgo.com/ip3/chat.810video.com.ico",
     "slug": "810-chat",
-    "status": "up",
-    "uptime": "98.85%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "98.86%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.85%",
-    "time": 585,
-    "timeDay": 649,
-    "timeWeek": 638,
-    "timeMonth": 620,
-    "timeYear": 585,
+    "uptimeYear": "98.86%",
+    "time": 580,
+    "timeDay": 376,
+    "timeWeek": 571,
+    "timeMonth": 603,
+    "timeYear": 580,
     "dailyMinutesDown": {
       "2026-07-02": 5,
       "2026-07-01": 993,
       "2026-07-15": 596,
-      "2026-07-14": 111
+      "2026-07-14": 111,
+      "2026-10-12": 0
     }
   }
 ]
